@@ -1,0 +1,7 @@
+streamlit==1.20.0
+openai
+streamlit
+pandas
+numpy
+qrcode
+pillow
